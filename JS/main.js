@@ -41,7 +41,7 @@ var swiper1 = new Swiper(".swiper-container-top", {
     clickable: true,
   },
   breakpoints: {
-    375: {
+    300: {
       slidesPerView: 1,
       slidesPerColumn: 2,
       spaceBetween: 20,
@@ -72,7 +72,7 @@ var swiper2 = new Swiper(".swiper-container-book", {
     clickable: true,
   },
   breakpoints: {
-    375: {
+    300: {
       slidesPerView: 1,
       slidesPerColumn: 2,
       spaceBetween: 20,
@@ -103,7 +103,7 @@ var swiper3 = new Swiper(".img", {
     clickable: true,
   },
   breakpoints: {
-    375: {
+    300: {
       slidesPerView: 1,
       spaceBetween: 20,
     },
